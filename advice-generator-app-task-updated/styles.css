@@ -33,12 +33,6 @@ body {
   margin-bottom: 30px;
 }
 
-.divider {
-  border: none;
-  border-top: 1px solid #3f4b5f;
-  margin: 20px 0;
-}
-
 .dice-button {
   background-color: #5aff9d;
   border: none;
